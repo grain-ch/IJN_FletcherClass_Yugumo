@@ -1,0 +1,10 @@
+<JSD015_Yugumo_1941_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/IJN_FletcherClass_Yugumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/IJN_FletcherClass_Yugumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_mg.dds	</Texture>
+	</property>
+</JSD015_Yugumo_1941_wire.mfm>

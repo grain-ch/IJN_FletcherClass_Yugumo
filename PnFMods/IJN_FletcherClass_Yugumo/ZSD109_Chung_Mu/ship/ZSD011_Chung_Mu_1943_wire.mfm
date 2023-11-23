@@ -1,0 +1,10 @@
+<ZSD011_Chung_Mu_1943_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_mg.dds	</Texture>
+	</property>
+</ZSD011_Chung_Mu_1943_wire.mfm>

@@ -1,0 +1,7 @@
+<JGM151_127mm50_Type_C_dead.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/IJN_FletcherClass_Yugumo/ASD519_Halford/gun/lods/AGM183_5in38_Mk30_Mod0_1939_dead_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/ASD519_Halford/gun/AGM183_5in38_Mk30_Mod0_1939_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGM151_127mm50_Type_C_dead.model>

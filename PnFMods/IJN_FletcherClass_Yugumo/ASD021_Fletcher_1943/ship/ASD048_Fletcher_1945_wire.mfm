@@ -1,0 +1,10 @@
+<ASD048_Fletcher_1945_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/IJN_FletcherClass_Yugumo/ASD021_Fletcher_1943/ship/ASD048_Fletcher_1945_rv_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/IJN_FletcherClass_Yugumo/ASD021_Fletcher_1943/ship/ASD048_Fletcher_1945_rv_mg.dds	</Texture>
+	</property>
+</ASD048_Fletcher_1945_wire.mfm>

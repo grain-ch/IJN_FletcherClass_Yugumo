@@ -1,0 +1,10 @@
+<JSD015_Yugumo_1941_Bow.model>
+	<castsShadow>	true	</castsShadow>
+	<!--<parent>	PnFMods/IJN_FletcherClass_Yugumo/JSD209_Yugumo/ship/lods/JSD015_Yugumo_1941_Bow_lod1	</parent>
+	<extent>	8.0000	</extent>
+	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_Bow	</nodefullVisual>-->
+	<parent>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/lods/ZSD011_Chung_Mu_1943_Bow_lod1	</parent>
+	<extent>	6.0000	</extent>
+	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_Bow	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSD015_Yugumo_1941_Bow.model>

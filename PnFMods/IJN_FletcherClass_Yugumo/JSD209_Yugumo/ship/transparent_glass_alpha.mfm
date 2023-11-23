@@ -1,0 +1,25 @@
+<transparent_glass_alpha.mfm>
+	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/IJN_FletcherClass_Yugumo/JSD209_Yugumo/ship/transparent_glass_alpha_a.dds	</Texture>
+	</property>
+	<property>	glassAbsorptionCoef
+		<Float>	0.6100	</Float>
+	</property>
+	<property>	glassGlossiness
+		<Float>	0.3200	</Float>
+	</property>
+	<property>	glassSpecular
+		<Float>	0.4000	</Float>
+	</property>
+	<property>	glassSubmaterialGlossiness
+		<Float>	0.1200	</Float>
+	</property>
+	<property>	glassSubmaterialSpecular
+		<Float>	0.4600	</Float>
+	</property>
+	<property>	glassSubmaterialThreshold
+		<Float>	0.2000	</Float>
+	</property>
+</transparent_glass_alpha.mfm>

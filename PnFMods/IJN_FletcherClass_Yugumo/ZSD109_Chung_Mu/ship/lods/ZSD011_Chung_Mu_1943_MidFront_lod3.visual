@@ -1,0 +1,367 @@
+<ZSD011_Chung_Mu_1943_MidFront_lod3.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidFront	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidFront_crack_Bow	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_Bow_in	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_MidBack	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_MidBack_in	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_wire	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_wire_flagfal	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>MidFront_AddShape</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>MidFront_AddWire2</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>MidFront_ARS004_Radar_SG</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>MidFront_ZD007_Torpedo_Director_27_L</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>MidFront_ZD007_Torpedo_Director_27_R</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>MidFront_ZD014_Director_Mk51_L</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>MidFront_ZD014_Director_Mk51_R</identifier>
+				<transform>
+					<row0>1.000000 0.000000 0.000000</row0>
+					<row1>0.000000 1.000000 0.000000</row1>
+					<row2>0.000000 0.000000 1.000000</row2>
+					<row3>0.000000 0.000000 0.000000</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_in_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_in_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_in_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_in_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront	</node>
+		<geometry>
+			<vertices>	MidFront_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBack_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBack_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	TL2_SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_wire_flagfal	</node>
+		<geometry>
+			<vertices>	MidFront_wire_flagfal_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_wire_flagfal_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_wire	</node>
+		<geometry>
+			<vertices>	MidFront_wire_lod3Shape.vertices	</vertices>
+			<primitive>	MidFront_wire_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	TL2_SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+		<node>MidFront_AddShape</node>
+		<geometry>
+			<vertices>MidFront_AddShape_lod3.vertices</vertices>
+			<primitive>MidFront_AddShape_lod3.indices</primitive>
+			<primitiveGroup>
+				0
+				<material>
+					<identifier>TL2_SHIPMAT_PBS_DeckHouse</identifier>
+					<mfm>PnFMods/IJN_FletcherClass_Yugumo/ASD021_Fletcher_1943/ship/ASD048_Fletcher_1945.mfm</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+		<node>MidFront_AddWire2</node>
+		<geometry>
+			<vertices>MidFront_AddWire2_lod3.vertices</vertices>
+			<primitive>MidFront_AddWire2_lod3.indices</primitive>
+			<primitiveGroup>
+				0
+				<material>
+					<identifier>TL2_SHIPWIRE_PBS_HullX</identifier>
+					<mfm>PnFMods/IJN_FletcherClass_Yugumo/ASD021_Fletcher_1943/ship/ASD048_Fletcher_1945_wire.mfm</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+		<node>MidFront_ARS004_Radar_SG</node>
+		<geometry>
+			<vertices>MidFront_ARS004_Radar_SG_lod3.vertices</vertices>
+			<primitive>MidFront_ARS004_Radar_SG_lod3.indices</primitive>
+			<primitiveGroup>
+				0
+				<material>
+					<identifier>TL2_SHIPMAT_PBS_DirectorX</identifier>
+					<mfm>PnFMods/IJN_FletcherClass_Yugumo/ASD021_Fletcher_1943/radar/ARS114_Radar_SG.mfm</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+		<node>MidFront_ZD007_Torpedo_Director_27_L</node>
+		<geometry>
+			<vertices>MidFront_ZD007_Torpedo_Director_27_L_lod3.vertices</vertices>
+			<primitive>MidFront_ZD007_Torpedo_Director_27_L_lod3.indices</primitive>
+			<primitiveGroup>
+				0
+				<material>
+					<identifier>SHIPMAT_PBS_Director</identifier>
+					<mfm>PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/director/ZD007_Torpedo_Director_27_skinned.mfm</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+		<node>MidFront_ZD007_Torpedo_Director_27_R</node>
+		<geometry>
+			<vertices>MidFront_ZD007_Torpedo_Director_27_R_lod3.vertices</vertices>
+			<primitive>MidFront_ZD007_Torpedo_Director_27_R_lod3.indices</primitive>
+			<primitiveGroup>
+				0
+				<material>
+					<identifier>SHIPMAT_PBS_Director</identifier>
+					<mfm>PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/director/ZD007_Torpedo_Director_27_skinned.mfm</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+		<node>MidFront_ZD014_Director_Mk51_L</node>
+		<geometry>
+			<vertices>MidFront_ZD014_Director_Mk51_L_lod3.vertices</vertices>
+			<primitive>MidFront_ZD014_Director_Mk51_L_lod3.indices</primitive>
+			<primitiveGroup>
+				0
+				<material>
+					<identifier>TL2_SHIPMAT_PBS_Director</identifier>
+					<mfm>PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/director/ZD014_Director_Mk51.mfm</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>false</treatAsWorldSpaceObject>
+		<node>MidFront_ZD014_Director_Mk51_R</node>
+		<geometry>
+			<vertices>MidFront_ZD014_Director_Mk51_R_lod3.vertices</vertices>
+			<primitive>MidFront_ZD014_Director_Mk51_R_lod3.indices</primitive>
+			<primitiveGroup>
+				0
+				<material>
+					<identifier>TL2_SHIPMAT_PBS_Director</identifier>
+					<mfm>PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/director/ZD014_Director_Mk51.mfm</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.4090 -0.3025 0.0038	</min>
+		<max>	0.4352 1.8958 2.4775	</max>
+	</boundingBox>
+</ZSD011_Chung_Mu_1943_MidFront_lod3.visual>

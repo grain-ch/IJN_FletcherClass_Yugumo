@@ -1,0 +1,7 @@
+<JGA019_25mm_Type96_double_dead.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/IJN_FletcherClass_Yugumo/ASD519_Halford/gun/lods/AGA002_40mm_Bofors_Mk1_dead_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/ASD519_Halford/gun/AGA002_40mm_Bofors_Mk1_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA019_25mm_Type96_double_dead.model>

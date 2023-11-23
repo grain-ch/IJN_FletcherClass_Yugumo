@@ -1,0 +1,7 @@
+<JGB185_Depth_Charge_Dumper.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/lods/ZGB059_Depth_Charge_Roller_Track_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB059_Depth_Charge_Roller_Track	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGB185_Depth_Charge_Dumper.model>
