@@ -1,6 +1,5 @@
 <ZSD011_Chung_Mu_1943.mfm>
-	<!--<fx>	shaders/std_effects/PBS_ship.fx	</fx>-->
-	<fx>	shaders/materials/pbs/ship_material.fx	</fx>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_ao.dds	</Texture>

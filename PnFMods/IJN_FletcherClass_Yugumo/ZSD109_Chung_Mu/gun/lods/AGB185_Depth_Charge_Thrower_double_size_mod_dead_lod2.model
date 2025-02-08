@@ -1,7 +1,0 @@
-<AGB185_Depth_Charge_Thrower_double_size_mod_dead_lod2.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/lods/AGB185_Depth_Charge_Thrower_double_size_mod_dead_lod3	</parent>
-	<extent>	12.0000	</extent>
-	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/lods/AGB185_Depth_Charge_Thrower_double_size_mod_dead_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</AGB185_Depth_Charge_Thrower_double_size_mod_dead_lod2.model>

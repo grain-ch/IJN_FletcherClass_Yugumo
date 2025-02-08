@@ -1,7 +1,6 @@
 <AGA223_20mm_Oerlikon_MK4_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/IJN_FletcherClass_Yugumo/ASD519_Halford/gun/lods/AGA223_20mm_Oerlikon_MK4_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/ASD519_Halford/gun/AGA223_20mm_Oerlikon_MK4_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/IJN_FletcherClass_Yugumo/ASD519_Halford/gun/AGA223_20mm_Oerlikon_MK4_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </AGA223_20mm_Oerlikon_MK4_dead.model>

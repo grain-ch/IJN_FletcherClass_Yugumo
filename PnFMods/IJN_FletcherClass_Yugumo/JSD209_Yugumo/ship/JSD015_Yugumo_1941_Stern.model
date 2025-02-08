@@ -1,10 +1,7 @@
 <JSD015_Yugumo_1941_Stern.model>
-	<castsShadow>	true	</castsShadow>
-	<!--<parent>	PnFMods/IJN_FletcherClass_Yugumo/JSD209_Yugumo/ship/lods/JSD015_Yugumo_1941_Stern_lod1	</parent>
-	<extent>	8.0000	</extent>
-	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_Stern	</nodefullVisual>-->
-	<parent>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/lods/ZSD011_Chung_Mu_1943_Stern_lod1	</parent>
-	<extent>	6.0000	</extent>
-	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_Stern	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<!--<visual>	PnFMods/IJN_FletcherClass_Yugumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_Stern.visual	</visual>-->
+	<visual>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_Stern.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JSD015_Yugumo_1941_Stern.model>

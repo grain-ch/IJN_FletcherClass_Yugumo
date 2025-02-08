@@ -1,61 +1,163 @@
 <AGB185_Depth_Charge_Thrower_double_size_mod_dead.visual>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
-		</transform>
+	<skeleton>
 		<node>
-			<identifier>	ShapeL	</identifier>
+			<identifier>	Scene Root	</identifier>
 			<transform>
 				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
 				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
 				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
+			<node>
+				<identifier>	ShapeL	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	ShapeR	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
 		</node>
-		<node>
-			<identifier>	ShapeR	</identifier>
-			<transform>
-				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
-				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
-			</transform>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	ShapeL	</node>
-		<geometry>
-			<vertices>	AGB185_Depth_Charge_Thrower_deadShapeL.vertices	</vertices>
-			<primitive>	AGB185_Depth_Charge_Thrower_deadShapeL.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
-					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	ShapeR	</node>
-		<geometry>
-			<vertices>	AGB185_Depth_Charge_Thrower_deadShapeR.vertices	</vertices>
-			<primitive>	AGB185_Depth_Charge_Thrower_deadShapeR.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
-					<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.3600 0.0000 0.1600	</min>
 		<max>	0.3600 0.2000 0.1800	</max>
 	</boundingBox>
+	<renderSets>
+		<renderSet>
+			<name>AGB185_Depth_Charge_Thrower_deadShapeL</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShapeL	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+				<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>AGB185_Depth_Charge_Thrower_dead_lod1ShapeL</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShapeL	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+				<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>AGB185_Depth_Charge_Thrower_dead_lod2ShapeL</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShapeL	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+				<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>AGB185_Depth_Charge_Thrower_dead_lod3ShapeL</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShapeL	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+				<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>AGB185_Depth_Charge_Thrower_deadShapeR</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShapeR	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+				<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>AGB185_Depth_Charge_Thrower_dead_lod1ShapeR</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShapeR	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+				<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>AGB185_Depth_Charge_Thrower_dead_lod2ShapeR</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShapeR	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+				<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>AGB185_Depth_Charge_Thrower_dead_lod3ShapeR</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	ShapeR	</node>
+			</nodes>
+			<material>
+				<identifier>	TL2_SHIPMAT_PBS_GunDead	</identifier>
+				<mfm>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGB060_Depth_Charge_Thrower_R_dead.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	4.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	AGB185_Depth_Charge_Thrower_deadShapeL	</renderSet>
+				<renderSet>	AGB185_Depth_Charge_Thrower_deadShapeR	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	12.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	AGB185_Depth_Charge_Thrower_dead_lod1ShapeL	</renderSet>
+				<renderSet>	AGB185_Depth_Charge_Thrower_dead_lod1ShapeR	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	25.0000	</extent>
+			<castsShadow>	true	</castsShadow>
+			<renderSets>
+				<renderSet>	AGB185_Depth_Charge_Thrower_dead_lod2ShapeL	</renderSet>
+				<renderSet>	AGB185_Depth_Charge_Thrower_dead_lod2ShapeR	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	200.0000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	AGB185_Depth_Charge_Thrower_dead_lod3ShapeL	</renderSet>
+				<renderSet>	AGB185_Depth_Charge_Thrower_dead_lod3ShapeR	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </AGB185_Depth_Charge_Thrower_double_size_mod_dead.visual>

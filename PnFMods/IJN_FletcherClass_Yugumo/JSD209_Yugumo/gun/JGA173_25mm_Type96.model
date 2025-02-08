@@ -1,7 +1,7 @@
 <JGA173_25mm_Type96.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/lods/ZGA023_40mm_Bofors_Mk2_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGA023_40mm_Bofors_Mk2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<!--<visual>	PnFMods/IJN_FletcherClass_Yugumo/JSD209_Yugumo/gun/JGA173_25mm_Type96.visual	</visual>-->
+	<visual>	PnFMods/IJN_FletcherClass_Yugumo/ZSD109_Chung_Mu/gun/ZGA023_40mm_Bofors_Mk2.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </JGA173_25mm_Type96.model>
